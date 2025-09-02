@@ -27,3 +27,6 @@ scikit-learn
 
 # UI
 streamlit
+
+# others
+grandalf
