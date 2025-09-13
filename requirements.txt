@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -17,6 +18,9 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+
+# vector stores
+faiss-cpu
 
 # Environment Variable Management
 python-dotenv
