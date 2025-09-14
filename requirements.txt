@@ -22,6 +22,9 @@ huggingface-hub
 # vector stores
 faiss-cpu
 
+# document laoder
+pypdf
+
 # Environment Variable Management
 python-dotenv
 
